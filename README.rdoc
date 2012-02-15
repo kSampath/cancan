@@ -1,6 +1,4 @@
 
-== Installation
-
 In <b>Rails 3</b>, add this to your Gemfile and run the +bundle+ command.
 
   gem "cancan"
