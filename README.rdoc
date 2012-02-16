@@ -1,4 +1,4 @@
-  gem "kfjasj"
+  gem "kfsj"
 
 In <b>Rails 2</b>, add this to your environment.rb file.
 
